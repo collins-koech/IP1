@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: white;
 }
 
 h1 {
@@ -9,5 +9,29 @@ h1 {
 
 p {
     font-family: verdana;
+    font-size: 20px;
+    color: black;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.underline {
+    font-style: italic;
+    font-size: 40px;
+}
+
+.projects {
+    color: green;
+    font-size: 40px;
+}
+
+.interest {
+    color: green;
+    font-size: 40px;
+}
+
+div.hobbies {
     font-size: 20px;
 }
