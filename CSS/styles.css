@@ -39,3 +39,10 @@ div.hobbies {
 .body {
     background-color: white;
 }
+
+.test-box {
+    border-left: 2px solid black;
+    border-right: 4px solid black;
+    border-top: 6px solid black;
+    border-bottom: 8px solid black;
+}
